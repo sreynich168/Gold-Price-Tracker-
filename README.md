@@ -44,7 +44,7 @@ This project uses **Machine Learning** and **real-time gold price data** to pred
 ### 🔵 Price Distribution Histogram
 
 ![Line Chart](chart1.png)
-![Histogram](chart1.png)
+![Histogram](chart2.png)
 ---
 
 ## 🚀 How to Run
